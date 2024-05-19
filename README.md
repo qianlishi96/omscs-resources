@@ -57,8 +57,8 @@
 ## CS6035 IIS
 - 课程页面 https://omscs.gatech.edu/cs-6035-introduction-information-security
 - 课程大纲 https://github.gatech.edu/pages/cs6035-tools/cs6035-tools.github.io/Syllabus
-- 公开课程内容（来自课程页面，需ed） https://edstem.org/us/join/wExaBp
-- 公开课程内容（来自Udacity油管） https://www.youtube.com/playlist?list=PLAwxTw4SYaPkG-z00NybuIyDqT4sRh3ak
+- 公开课件（来自课程页面，需ed） https://edstem.org/us/join/wExaBp
+- 公开课件（来自Udacity油管） https://www.youtube.com/playlist?list=PLAwxTw4SYaPkG-z00NybuIyDqT4sRh3ak
 <!-- - 技术栈 （待添加）-->
 
 ## CS6200 GIOS （很硬，很有趣）
@@ -74,20 +74,20 @@
 ## CS6300 SDP
 - 课程页面 https://omscs.gatech.edu/cs-6300-software-development-process
 - 课程大纲 https://www.cc.gatech.edu/~orso/courses/cs6300-syllabus.html
-- 公开课程内容（来自课程页面，需ed） https://omscs.gatech.edu/cs-6300-software-development-process
-- 公开课程内容（来自Udacity油管）https://www.youtube.com/playlist?list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz https://www.youtube.com/playlist?list=PLAwxTw4SYaPm8PAGH7ov2Bj-nG4sXgCtJ https://www.youtube.com/playlist?list=PLAwxTw4SYaPkoQFThzsc9e7Fe3QV_KJCs
+- 公开课件（来自课程页面，需ed） https://omscs.gatech.edu/cs-6300-software-development-process
+- 公开课件（来自Udacity油管）https://www.youtube.com/playlist?list=PLAwxTw4SYaPkNAtqsKcFkUGpf4j67NBaz https://www.youtube.com/playlist?list=PLAwxTw4SYaPm8PAGH7ov2Bj-nG4sXgCtJ https://www.youtube.com/playlist?list=PLAwxTw4SYaPkoQFThzsc9e7Fe3QV_KJCs
 
 ## CS6310 SAD （24SP大改）
 - 课程页面 https://omscs.gatech.edu/cs-6310-software-architecture-and-design
 - 课程大纲示例 https://omscs.gatech.edu/sites/default/files/documents/2023/Syllabi-CS%206310%202023-2.pdf
-- 公开课程内容（来自课程页面，需ed） https://omscs.gatech.edu/cs-6310-software-architecture-and-design-course-videoss
+- 公开课件（来自课程页面，需ed） https://omscs.gatech.edu/cs-6310-software-architecture-and-design-course-videoss
 - 参考书 https://www.computer.org/education/bodies-of-knowledge/software-engineering
 - 参考书 https://learning.oreilly.com/library/view/applying-uml-and/0131489062/ch01.html https://galileo-gatech.primo.exlibrisgroup.com/discovery/fulldisplay?context=L&context=L&vid=01GALI_GIT:GT&vid=01GALI_GIT&docid=cdi_safari_books_v2_0131489062&tab=default_tab&lang=en
 
 ## CS6400 DB
 - 课程页面 https://omscs.gatech.edu/cs-6400-database-systems-concepts-and-design
 - 课程大纲示例 https://omscs.gatech.edu/sites/default/files/documents/2024/Syllabi-CS%206400%202024-2.pdf 
-- 公开课程内容（来自课程页面，需ed） https://edstem.org/us/join/uWdxj3
+- 公开课件（来自课程页面，需ed） https://edstem.org/us/join/uWdxj3
 - 教材 Elmasri & Navathe: Fundamentals of Database Systems. 7th Edition. Pearson 2016.、
 - 注： Please respect the intellectual property and hard work of the textbook authors and purchase a licensed copy of the text.  A downloaded PDF from the Internet is NOT a legal copy of the text.
 
@@ -134,19 +134,21 @@
 - pdf合并 https://smallpdf.com/merge-pdf
 - pdf文字识别 https://smallpdf.com/pdf-ocr
 - chat
-- 可朗读pdf的手机pdf阅读器 https://play.google.com/store/apps/details?id=com.foxit.mobile.pdf.lite&hl=en_US
+- 可朗读pdf的手机pdf阅读器，通勤/搬砖摸鱼用 https://play.google.com/store/apps/details?id=com.foxit.mobile.pdf.lite&hl=en_US
 - anki记忆卡 https://ankiweb.net/
 - anki记忆卡 https://apps.ankiweb.net/
 
-## Fun
+## Fun （夹带私货）
 - https://userinyerface.com/
 - https://theuselessweb.site/annoyingdog/
 - https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
 - http://zhangzhe.wang/index.php
 - https://xkcd.com/
+- https://www.cp.com.cn/book/b84e014c-c.html
+- https://yd.qq.com/web/bookDetail/26832a105e463c268f782f8
 
 <!--
-## 夹带私货
+## 真 夹带私货
 - 善用谷歌 善用chat
 - 有些课值得开个chat4
 - 谷歌 github + 课号 有惊喜
