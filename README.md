@@ -106,7 +106,7 @@
 - 课程大纲 https://omscs.gatech.edu/sites/default/files/documents/2023/Syllabi-CS%207280%202023-1.pdf
 - Network Science by Albert-László Barabási http://networksciencebook.com/
 
-## CS7646 ML4T （OMSCS守门员）
+## CS7646 ML4T
 - 课程页面 https://omscs.gatech.edu/cs-7646-machine-learning-trading
 - 课程网站 （公开） http://lucylabs.gatech.edu/ml4t/
 
