@@ -95,7 +95,7 @@
 - （70分过和100分过 都能过）
 - 课程页面 https://omscs.gatech.edu/cs-6515-intro-graduate-algorithms
 - 课程大纲示例 https://omscs.gatech.edu/sites/default/files/documents/2024/Syllabi-CS%206515%202024-2.pdf
-- 公开课件（来自课程页面，需ed） https://edstem.org/us/join/b75ghf
+- 公开课件（来自课程页面需ed） https://edstem.org/us/join/b75ghf
 - 教材 Algorithms by S. Dasgupta, C. Papadimitriou, and U. Vazirani.
 - 参考书 Algorithm Design by J. Kleinberg and E Tardos 
 - 参考课件 MIT's Introduction to Algorithms https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-006-introduction-to-algorithms-fall-2011/lecture-videos/
@@ -105,6 +105,12 @@
 - 课程页面 https://omscs.gatech.edu/cs-7280-network-science
 - 课程大纲 https://omscs.gatech.edu/sites/default/files/documents/2023/Syllabi-CS%207280%202023-1.pdf
 - Network Science by Albert-László Barabási http://networksciencebook.com/
+
+
+## CS7638 AI4R
+- 课程页面 https://omscs.gatech.edu/cs-7638-robotics-ai-techniques
+- 公开课件（来自课程页面， Kaltura） https://cdnapisec.kaltura.com/html5/html5lib/v2.101/mwEmbedFrame.php/p/2019031/uiconf_id/40436601?wid=1_xqqpdcj5&iframeembed=true&playerId=kaltura_player_&flashvars[playlistAPI.kpl0Id]=1_fq7ct623&flashvars[ks]=&&flashvars[imageDefaultDuration]=30&flashvars[localizationCode]=en&flashvars[leadWithHTML5]=true&flashvars[forceMobileHTML5]=true&flashvars[nextPrevBtn.plugin]=true&flashvars[hotspots.plugin]=true&flashvars[sideBarContainer.plugin]=true&flashvars[sideBarContainer.position]=left&flashvars[sideBarContainer.clickToClose]=true&flashvars[chapters.plugin]=true&flashvars[chapters.layout]=vertical&flashvars[chapters.thumbnailRotator]=false&flashvars[streamSelector.plugin]=true&flashvars[EmbedPlayer.SpinnerTarget]=videoHolder&flashvars[dualScreen.plugin]=true&flashvars[playlistAPI.playlistUrl]=https://canvasgatechtest.kaf.kaltura.com/playlist/details/{playlistAPI.kpl0Id}/categoryid/142224041 
+
 
 ## CS7646 ML4T
 - 课程页面 https://omscs.gatech.edu/cs-7646-machine-learning-trading
