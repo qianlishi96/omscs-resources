@@ -144,10 +144,18 @@
 - anki记忆卡 https://ankiweb.net/
 - anki记忆卡 https://apps.ankiweb.net/
 
+## 领英相关
+(咱是俗人，学习是为了找工作 呵呵呵呵)
+- https://www.linkedin.com/ 
+- Auto Highlight 快速高亮关键字 https://chromewebstore.google.com/detail/auto-highlight/ndndibnggapaodjdfoeehgmmpppedgfb
+- Hide n' Seek 关键字移除职位结果 https://chromewebstore.google.com/detail/hide-n-seek-hide-promoted/agghbaheofcoecndkbflbnggdjcmiaml
+- uBlock Origin Lite 隐藏网页元素 https://chromewebstore.google.com/detail/ublock-origin-lite/ddkjiahejlhfcafbddmgiahcphecmpfh
+
 ## Fun （夹带私货）
 - https://userinyerface.com/
 - https://theuselessweb.site/annoyingdog/
 - https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley
+- https://www.youtube.com/watch?v=3pfKuZUiBJo
 - http://zhangzhe.wang/index.php
 - https://xkcd.com/
 - https://www.cp.com.cn/book/b84e014c-c.html
@@ -168,9 +176,7 @@
 
 均为公开资源 你有网你也能搜到那种 🌐
 
-旨在打破信息壁垒 ☔
-
-点到为止 🤐
+旨在打破信息壁垒 ☔ 
 
 正如Steam游戏，愿望单就是买了，买了就是玩了，玩了就可以了 🎮
 
